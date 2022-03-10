@@ -1,0 +1,11 @@
+{
+    "name": "BNBFootball",
+    "website": "http://www.bnb-football.com/",
+    "description": "BNBFootball",
+    "explorer": "https://bscscan.com/token/0x521bacc9b1d18be4732a9bb5239835a8d1a7e1b3#balances",
+    "type": "BEP20",
+    "symbol": "BNBFootball",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x521bacc9b1d18be4732a9bb5239835a8d1a7e1b3"
+}
